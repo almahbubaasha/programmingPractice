@@ -16,5 +16,5 @@ class StarPrint{
         }
     }
 }
-const res = new StarPrint();
-res.star(6);
+const response = new StarPrint();
+response.star(6);
