@@ -22,3 +22,6 @@ response.star(6);
 // i want to add average value
 
 //[1,2,3,5,7]
+
+//i want make conflict with someone
+
