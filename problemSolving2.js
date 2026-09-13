@@ -19,3 +19,4 @@ class StarPrint{
 const response = new StarPrint();
 response.star(6);
 
+//another commit
